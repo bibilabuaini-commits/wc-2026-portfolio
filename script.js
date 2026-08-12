@@ -320,5 +320,676 @@
         tags: ['è®¾è®¡åŸºæœ¬åŠŸ', 'å“ç‰Œåˆ¤æ–­', 'AI ç”Ÿäº§åŠ›'], accent: '#ed174c', theme: 'light', layout: 'final', visual: 'synthesis', tools: ['ai', 'ps', 'gpt'],
       },
       {
-        duration: 3700, chapter: 4, phase: '04.1 / GROWTH', title: 'æŒç»­ç”ŸéëÏ:¶‰žËkºwµçd¹™½É…  ¡‰±½¬°¥¹‘•à¤€ôøì(€€€€€€€½¹ÍÐÍÁÉ•…€ô€ Ä€´•¹Ñ•È¤€¨€Ä¸Ä€¬•á¥Ð€¨€Ä¸ÈÔì½¹ÍÐà€ôà€¬€¡‰±½¬¹à€´€¸Ô¤€¨Ý¥‘Ñ €¨ÍÁÉ•…ì½¹ÍÐä€ôä€¬€¡‰±½¬¹ä€´€¸Ô¤€¨¡•¥¡Ð€¨ÍÁÉ•…ì(€€€€€€€ÍÅÕ…É”¡à°ä°5…Ñ ¹µ…à È°‰±½¬¹Í¥é”€¨€¸ÐÈ¤°¥¹‘•à€”€ä€ôôô€À€üÁ…±•ÑÑ”¹…•¹Ð€è€œŒÄàÈÐÔÄœ°€¸ÐÈ€¨€ Ä€´•á¥Ð¤°‰±½¬¹É½Ñ…Ñ”€¬Í•½¹‘Ì€¨€¸ÀÌ¤ì(€€€€€ô¤ì(€€€€€½¹ÍÐÉ…‘¥ÕÌ€ôÝ¥‘Ñ €¨€ ¸ÄÌ€¨€ Ä€´•á¥Ð¤€¬€¸ÀÈ¤ì¥É±”¡à°ä°É…‘¥ÕÌ°Á…±•ÑÑ”¹…•¹Ð°€¸ÈÔ€¨€ Ä€´•á¥Ð¤¤ì(€€€€€½¹ÍÐ±½Ü€ô½¹Ñ•áÐ¹É•…Ñ•I…‘¥…±É…‘¥•¹Ð¡à°ä°€À°à°ä°Ý¥‘Ñ €¨€¸Äà¤ì(€€€€€±½Ü¹…‘‘½±½ÉMÑ½À À°É‰„¡Á…±•ÑÑ”¹…•¹Ð°€¸ÄÜ€¨€ Ä€´•á¥Ð¤¤¤ì±½Ü¹…‘‘½±½ÉMÑ½À Ä°É‰„¡Á…±•ÑÑ”¹…•¹Ð°€À¤¤ì½¹Ñ•áÐ¹™¥±±MÑå±”€ô±½Üì½¹Ñ•áÐ¹™¥±±I•Ð À°€À°Ý¥‘Ñ °¡•¥¡Ð¤ì(€€€€€ÍÅÕ…É”¡à°ä°€ÄÌ€¨€ Ä€´•á¥Ð¤€¬€Ô°Á…±•ÑÑ”¹…•¹Ð°€Ä€´•á¥Ð€¨€¸ÐÔ°Í•½¹‘Ì€¨€¸ÀØ¤ì(€€€ôì((€€€½¹ÍÐÉ•¹‘•É•ÉÌ€ôì(€€€€€Í••è‘É…ÝM••°¹•ÑÝ½É¬è‘É…Ý9•ÑÝ½É¬°¡½É¥é½¸è‘É…Ý!½É¥é½¸°Í…ÑÑ•Èè‘É…ÝM…ÑÑ•È°É½ÍÌè‘É…ÝÉ½ÍÌ°(€€€€€µ½‘Õ±•Ìè‘É…Ý5½‘Õ±•Ì°É¥‰‰½¸è‘É…ÝI¥‰‰½¸°½É‰¥Ñ…°è‘É…Ý=É‰¥Ñ…°°µ…ÑÉ¥àè‘É…Ý5…ÑÉ¥à°Í­å±¥¹”è‘É…ÝM­å±¥¹”°(€€€€€Ý…Ù”è‘É…Ý]…Ù”°Ñ½½±Ìè‘É…ÝQ½½±Ì°½¹ÍÑ•±±…Ñ¥½¸è‘É…Ý½¹ÍÑ•±±…Ñ¥½¸°Íå¹Ñ¡•Í¥Ìè‘É…ÝMå¹Ñ¡•Í¥Ì°µ…¹¥™•ÍÑ¼è‘É…Ý5…¹¥™•ÍÑ¼°±½Í”è‘É…Ý±½Í”°(€€€ôì((€€€½¹ÍÐ…ÁÁ±åM•¹”€ô€¡¥¹‘•à°¥µµ•‘¥…Ñ”€ô™…±Í”¤€ôøì(€€€€€½¹ÍÐÍ•¹”€ôÍ•¹•Ím¥¹‘•átì(€€€€€½¹ÍÐ½µµ¥Ð€ô€ ¤€ôøì(€€€€€€€ÍÉ••¸¹‘…Ñ…Í•Ð¹Í•¹”€ôMÑÉ¥¹œ¡¥¹‘•à¤ì(€€€€€€€ÍÉ••¸¹‘…Ñ…Í•Ð¹Ñ¡•µ”€ôÍ•¹”¹Ñ¡•µ”ì(€€€€€€€ÍÉ••¸¹‘…Ñ…Í•Ð¹±…å½ÕÐ€ôÍ•¹”¹±…å½ÕÐì(€€€€€€€ÍÉ••¸¹ÍÑå±”¹Í•ÑAÉ½Á•ÉÑä œ´µ™¥±´µ…•¹Ðœ°Í•¹”¹…•¹Ð¤ì(€€€€€€€™¥•±‘Ì¹Á¡…Í”¹Ñ•áÑ½¹Ñ•¹Ð€ôÍ•¹”¹Á¡…Í”ì(€€€€€€€™¥•±‘Ì¹Ñ¥Ñ±”¹Ñ•áÑ½¹Ñ•¹Ð€ôÍ•¹”¹Ñ¥Ñ±”ì(€€€€€€€™¥•±‘Ì¹É½±”¹Ñ•áÑ½¹Ñ•¹Ð€ôÍ•¹”¹É½±”ì(€€€€€€€™¥•±‘Ì¹‘•ÍÉ¥ÁÑ¥½¸¹Ñ•áÑ½¹Ñ•¹Ð€ôÍ•¹”¹‘•ÍÉ¥ÁÑ¥½¸ì(€€€€€€€™¥•±‘Ì¹Ñ…Ì¹É•Á±…•¡¥±‘É•¸ ¸¸¹Í•¹”¹Ñ…Ì¹µ…À ¡±…‰•°¤€ôøì(€€€€€€€€€½¹ÍÐÍÁ…¸€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ÍÁ…¸œ¤ì(€€€€€€€€€ÍÁ…¸¹Ñ•áÑ½¹Ñ•¹Ð€ô±…‰•°ì(€€€€€€€€€É•ÑÕÉ¸ÍÁ…¸ì(€€€€€€€ô¤¤ì(€€€€€€€¡…ÁÑ•É5…É­•ÉÌ¹™½É…  ¡µ…É­•È¤€ôøµ…É­•È¹±…ÍÍ1¥ÍÐ¹Ñ½±” ¥Ìµ…Ñ¥Ù”œ°9Õµ‰•È¡µ…É­•È¹‘…Ñ…Í•Ð¹¡…ÁÑ•È¤€ôôôÍ•¹”¹¡…ÁÑ•È¤¤ì(€€€€€€€Ñ½½±…É‘Ì¹™½É…  ¡…É¤€ôøì(€€€€€€€€€½¹ÍÐÁ½Í¥Ñ¥½¸€ôÑ½½±A½Í¥Ñ¥½¹Ím¥¹‘•átü¹m…É¹‘…Ñ…Í•Ð¹Ñ½½±tì(€€€€€€€€€…É¹±…ÍÍ1¥ÍÐ¹Ñ½±” ¥ÌµÙ¥Í¥‰±”œ°Í•¹”¹Ñ½½±Ì¹¥¹±Õ‘•Ì¡…É¹‘…Ñ…Í•Ð¹Ñ½½°¤¤ì(€€€€€€€€€¥˜€¡Á½Í¥Ñ¥½¸¤ì(€€€€€€€€€€€…É¹ÍÑå±”¹Í•ÑAÉ½Á•ÉÑä œ´µÑ½½°µàœ°€‘íÁ½Í¥Ñ¥½¹lÁuô•€¤ì(€€€€€€€€€€€…É¹ÍÑå±”¹Í•ÑAÉ½Á•ÉÑä œ´µÑ½½°µäœ°€‘íÁ½Í¥Ñ¥½¹lÅuô•€¤ì(€€€€€€€€€€€…É¹ÍÑå±”¹Í•ÑAÉ½Á•ÉÑä œ´µÑ½½°µÈœ°€‘íÁ½Í¥Ñ¥½¹lÉuõ‘•€¤ì(€€€€€€€€€ô(€€€€€€€ô¤ì(€€€€€€€É•ÅÕ•ÍÑ¹¥µ…Ñ¥½¹É…µ”  ¤€ôøÍÉ••¸¹±…ÍÍ1¥ÍÐ¹É•µ½Ù” ¥ÌµÍÝ¥Ñ¡¥¹œœ¤¤ì(€€€€€ôì(€€€€€¥˜€¡¥µµ•‘¥…Ñ”¤½µµ¥Ð ¤ì(€€€€€•±Í”ì(€€€€€€€ÍÉ••¸¹±…ÍÍ1¥ÍÐ¹…‘ ¥ÌµÍÝ¥Ñ¡¥¹œœ¤ì(€€€€€€€Ý¥¹‘½Ü¹Í•ÑQ¥µ•½ÕÐ¡½µµ¥Ð°€ÈØÀ¤ì(€€€€€ô(€€€ôì((€€€½¹ÍÐ±½…Ñ•M•¹”€ô€¡Ñ¥µ”¤€ôøì(€€€€€±•Ð½™™Í•Ð€ô€Àì(€€€€€™½È€¡±•Ð¥¹‘•à€ô€Àì¥¹‘•à€ðÍ•¹•Ì¹±•¹Ñ ì¥¹‘•à€¬ô€Ä¤ì(€€€€€€€½¹ÍÐ•¹€ô½™™Í•Ð€¬Í•¹•Ím¥¹‘•át¹‘ÕÉ…Ñ¥½¸ì(€€€€€€€¥˜€¡Ñ¥µ”€ð•¹¤É•ÑÕÉ¸ì¥¹‘•à°±½…°èÑ¥µ”€´½™™Í•Ð°‘ÕÉ…Ñ¥½¸èÍ•¹•Ím¥¹‘•át¹‘ÕÉ…Ñ¥½¸ôì(€€€€€€€½™™Í•Ð€ô•¹ì(€€€€€ô(€€€€€É•ÑÕÉ¸ì¥¹‘•àè€À°±½…°è€À°‘ÕÉ…Ñ¥½¸èÍ•¹•ÍlÁt¹‘ÕÉ…Ñ¥½¸ôì(€€€ôì((€€€½¹ÍÐÉ•¹‘•È€ô€¡¹½Ü¤€ôøì(€€€€€™É…µ”€ô€Àì(€€€€€É•Í¥é” ¤ì(€€€€€¥˜€ …ÕÍ•ÉA…ÕÍ•€˜˜¥¹Y¥•Ü¤•±…ÁÍ•€ô€¡•±…ÁÍ•€¬5…Ñ ¹µ¥¸ ÄÀÀ°¹½Ü€´±…ÍÑQ¥µ”¤¤€”Ñ½Ñ…±ÕÉ…Ñ¥½¸ì(€€€€€±…ÍÑQ¥µ”€ô¹½Üì(€€€€€½¹ÍÐ±½…Ñ•€ô±½…Ñ•M•¹”¡•±…ÁÍ•¤ì(€€€€€¥˜€¡±½…Ñ•¹¥¹‘•à€„ôôÍ•¹•%¹‘•à¤ì(€€€€€€€Í•¹•%¹‘•à€ô±½…Ñ•¹¥¹‘•àì(€€€€€€€…ÁÁ±åM•¹”¡Í•¹•%¹‘•à¤ì(€€€€€ô(€€€€€½¹ÍÐÍ•¹”€ôÍ•¹•Ím±½…Ñ•¹¥¹‘•átì(€€€€€½¹ÍÐÁÉ½É•ÍÌ€ô±…µÀ¡±½…Ñ•¹±½…°€¼±½…Ñ•¹‘ÕÉ…Ñ¥½¸¤ì(€€€€€½¹ÍÐÍ•½¹‘Ì€ô•±…ÁÍ•€¼€ÄÀÀÀì(€€€€€½¹ÍÐÁ…±•ÑÑ”€ô‰…­É½Õ¹¡Í•¹”°ÁÉ½É•ÍÌ°Í•½¹‘Ì¤ì(€€€€€½¹Ñ•áÐ¹Í…Ù” ¤ì(€€€€€½¹ÍÐÑÉ…¹Í¥Ñ¥½¹%¸€ôÍµ½½Ñ ¡±…µÀ¡ÁÉ½É•ÍÌ€¼€¸Ä¤¤ì(€€€€€½¹ÍÐÑÉ…¹Í¥Ñ¥½¹=ÕÐ€ôÍµ½½Ñ ¡±…µÀ  Ä€´ÁÉ½É•ÍÌ¤€¼€¸Àà¤¤ì(€€€€€½¹Ñ•áÐ¹±½‰…±±Á¡„€ô5…Ñ ¹µ¥¸¡ÑÉ…¹Í¥Ñ¥½¹%¸°ÑÉ…¹Í¥Ñ¥½¹=ÕÐ¤ì(€€€€€½¹ÍÐµ½Ñ¥½¹AÉ½É•ÍÌ€ôÍ•¹”¹Ù¥ÍÕ…°€ôôô€±½Í”œ€üÁÉ½É•ÍÌ€è±…µÀ¡ÁÉ½É•ÍÌ€¨€Ä¸àÔ¤ì(€€€€€½¹ÍÐµ½Ñ¥½¹M•½¹‘Ì€ôÍ•½¹‘Ì€¨€Ä¸ØÔì(€€€€€É•¹‘•É•ÉÍmÍ•¹”¹Ù¥ÍÕ…±tü¸¡Á…±•ÑÑ”°µ½Ñ¥½¹AÉ½É•ÍÌ°µ½Ñ¥½¹M•½¹‘Ì¤ì(€€€€€½¹Ñ•áÐ¹É•ÍÑ½É” ¤ì(€€€€€™¥•±‘Ì¹ÁÉ½É•ÍÌ¹ÍÑå±”¹ÑÉ…¹Í™½É´€ôÍ…±•` ‘í•±…ÁÍ•€¼Ñ½Ñ…±ÕÉ…Ñ¥½¹ô¥€ì(€€€€€½¹ÍÐÝ¡½±•M•½¹‘Ì€ô5…Ñ ¹™±½½È¡•±…ÁÍ•€¼€ÄÀÀÀ¤ì(€€€€€½¹ÍÐµ¥¹ÕÑ•Ì€ô5…Ñ ¹™±½½È¡Ý¡½±•M•½¹‘Ì€¼€ØÀ¤ì(€€€€€½¹ÍÐÍ•½¹‘ÍA…ÉÐ€ôÝ¡½±•M•½¹‘Ì€”€ØÀì(€€€€€½¹ÍÐ™É…µ•Ì€ô5…Ñ ¹™±½½È ¡•±…ÁÍ•€”€ÄÀÀÀ¤€¼€ ÄÀÀÀ€¼€ÈÐ¤¤ì(€€€€€™¥•±‘Ì¹±½¬¹Ñ•áÑ½¹Ñ•¹Ð€ô€ÀÀè‘íMÑÉ¥¹œ¡µ¥¹ÕÑ•Ì¤¹Á…‘MÑ…ÉÐ È°€œÀœ¥ôè‘íMÑÉ¥¹œ¡Í•½¹‘ÍA…ÉÐ¤¹Á…‘MÑ…ÉÐ È°€œÀœ¥ôè‘íMÑÉ¥¹œ¡™É…µ•Ì¤¹Á…‘MÑ…ÉÐ È°€œÀœ¥õ€ì(€€€€€¥˜€¡¥¹Y¥•Ü€˜˜€…ÕÍ•ÉA…ÕÍ•¤™É…µ”€ôÉ•ÅÕ•ÍÑ¹¥µ…Ñ¥½¹É…µ”¡É•¹‘•È¤ì(€€€ôì((€€€½¹ÍÐÍÑ…ÉÐ€ô€ ¤€ôøì(€€€€€¥˜€¡™É…µ”ñð€…¥¹Y¥•Ü¤É•ÑÕÉ¸ì(€€€€€±…ÍÑQ¥µ”€ôÁ•É™½Éµ…¹”¹¹½Ü ¤ì(€€€€€™É…µ”€ôÉ•ÅÕ•ÍÑ¹¥µ…Ñ¥½¹É…µ”¡É•¹‘•È¤ì(€€€ôì(€€€½¹ÍÐÍÑ½À€ô€ ¤€ôøì(€€€€€¥˜€¡™É…µ”¤…¹•±¹¥µ…Ñ¥½¹É…µ”¡™É…µ”¤ì(€€€€€™É…µ”€ô€Àì(€€€ôì((€€€ÍÉ••¸¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È …É••Èµ™¥±´éÍ••¬œ°€¡•Ù•¹Ð¤€ôøì(€€€€€ÍÑ½À ¤ì(€€€€€•±…ÁÍ•€ô±…µÀ¡9Õµ‰•È¡•Ù•¹Ð¹‘•Ñ…¥°¤ñð€À°€À°Ñ½Ñ…±ÕÉ…Ñ¥½¸€´€Ä¤ì(€€€€€½¹ÍÐ±½…Ñ•€ô±½…Ñ•M•¹”¡•±…ÁÍ•¤ì(€€€€€Í•¹•%¹‘•à€ô±½…Ñ•¹¥¹‘•àì(€€€€€…ÁÁ±åM•¹”¡Í•¹•%¹‘•à°ÑÉÕ”¤ì(€€€€€±…ÍÑQ¥µ”€ôÁ•É™½Éµ…¹”¹¹½Ü ¤ì(€€€€€É•¹‘•È¡±…ÍÑQ¥µ”¤ì(€€€ô¤ì((€€€Ñ½±”¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøì(€€€€€ÕÍ•ÉA…ÕÍ•€ô€…ÕÍ•ÉA…ÕÍ•ì(€€€€€ÍÉ••¸¹±…ÍÍ1¥ÍÐ¹Ñ½±” ¥ÌµÁ…ÕÍ•œ°ÕÍ•ÉA…ÕÍ•¤ì(€€€€€Ñ½±”¹ÅÕ•ÉåM•±•Ñ½È ÍÁ…¸œ¤¹Ñ•áÑ½¹Ñ•¹Ð€ôÕÍ•ÉA…ÕÍ•€ü€A1dœ€è€AUMœì(€€€€€Ñ½±”¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µ±…‰•°œ°ÕÍ•ÉA…ÕÍ•€ü€ŸšJ·šRû–Æ—–:–*£žRìœ€è€Ÿšj–s–Æ—–:–*£žRìœ¤ì(€€€€€±…ÍÑQ¥µ”€ôÁ•É™½Éµ…¹”¹¹½Ü ¤ì(€€€€€¥˜€ …™É…µ”¤ÍÑ…ÉÐ ¤ì(€€€ô¤ì((€€€½¹ÍÐ½‰Í•ÉÙ•È€ô¹•Ü%¹Ñ•ÉÍ•Ñ¥½¹=‰Í•ÉÙ•È ¡•¹ÑÉ¥•Ì¤€ôøì(€€€€€•¹ÑÉ¥•Ì¹™½É…  ¡•¹ÑÉä¤€ôøì(€€€€€€€¥¹Y¥•Ü€ô•¹ÑÉä¹¥Í%¹Ñ•ÉÍ•Ñ¥¹œì(€€€€€€€¥˜€¡¥¹Y¥•Ü¤ÍÑ…ÉÐ ¤ì•±Í”ÍÑ½À ¤ì(€€€€€ô¤ì(€€€ô°ìÑ¡É•Í¡½±è€À¸Äàô¤ì(€€€½‰Í•ÉÙ•È¹½‰Í•ÉÙ”¡ÍÉ••¸¤ì(€€€Ý¥¹‘½Ü¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È É•Í¥é”œ°É•Í¥é”°ìÁ…ÍÍ¥Ù”èÑÉÕ”ô¤ì(€€€¥˜€¡É•‘Õ•‘5½Ñ¥½¸¤ì(€€€€€ÍÉ••¸¹±…ÍÍ1¥ÍÐ¹…‘ ¥ÌµÁ…ÕÍ•œ¤ì(€€€€€Ñ½±”¹ÅÕ•ÉåM•±•Ñ½È ÍÁ…¸œ¤¹Ñ•áÑ½¹Ñ•¹Ð€ô€A1dœì(€€€ô(€€€…ÁÁ±åM•¹”¡Í•¹•%¹‘•à°ÑÉÕ”¤ì(€€€É•Í¥é” ¤ì(€€€É•¹‘•È¡Á•É™½Éµ…¹”¹¹½Ü ¤¤ì(€ôì((€½¹ÍÐ…É‘Q•µÁ±…Ñ”€ô€¡¥Ñ•´°¥¹‘•à°ÁÉ½©•Ñ9…µ”¤€ôøì(€€€½¹ÍÐ‰ÕÑÑ½¸€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ‰ÕÑÑ½¸œ¤ì(€€€‰ÕÑÑ½¸¹ÑåÁ”€ô€‰ÕÑÑ½¸œì(€€€‰ÕÑÑ½¸¹±…ÍÍ9…µ”€ô…±±•Éäµ…É…±±•Éäµ…É´´‘í¥Ñ•´¹½É¥•¹Ñ…Ñ¥½¹õ€ì(€€€‰ÕÑÑ½¸¹‘…Ñ…Í•Ð¹¥¹‘•à€ôMÑÉ¥¹œ¡¥¹‘•à¤ì(€€€‰ÕÑÑ½¸¹Í•ÑÑÑÉ¥‰ÕÑ” …É¥„µ±…‰•°œ°ƒš~—žr,€‘íÁÉ½©•Ñ9…µ•ô€‘í¥Ñ•´¹Ñ¥Ñ±•õ€¤ì(€€€½¹ÍÐ¥µ…”€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ¥µœœ¤ì(€€€¥µ…”¹…±Ð€ô€‘íÁÉ½©•Ñ9…µ•÷¾öp‘í¥Ñ•´¹Ñ¥Ñ±•õ€ì(€€€¥µ…”¹±½…‘¥¹œ€ô€±…éäœì(€€€¥µ…”¹‘•½‘¥¹œ€ô€…Íå¹Œœì(€€€½¹ÍÐ…ÁÁ±å9…ÑÕÉ…±I…Ñ¥¼€ô€ ¤€ôøì(€€€€€¥˜€ …¥µ…”¹¹…ÑÕÉ…±]¥‘Ñ ñð€…¥µ…”¹¹…ÑÕÉ…±!•¥¡Ð¤É•ÑÕÉ¸ì(€€€€€‰ÕÑÑ½¸¹ÍÑå±”¹Í•ÑAÉ½Á•ÉÑä œ´µ…ÍÍ•ÐµÉ…Ñ¥¼œ°MÑÉ¥¹œ¡¥µ…”¹¹…ÑÕÉ…±]¥‘Ñ €¼¥µ…”¹¹…ÑÕÉ…±!•¥¡Ð¤¤ì(€€€€€¥µ…”¹Ý¥‘Ñ €ô¥µ…”¹¹…ÑÕÉ…±]¥‘Ñ ì(€€€€€¥µ…”¹¡•¥¡Ð€ô¥µ…”¹¹…ÑÕÉ…±!•¥¡Ðì(€€€ôì(€€€¥µ…”¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±½…œ°…ÁÁ±å9…ÑÕÉ…±I…Ñ¥¼°ì½¹”èÑÉÕ”ô¤ì(€€€¥µ…”¹ÍÉŒ€ô¥Ñ•´¹ÍÉŒì(€€€¥˜€¡¥µ…”¹½µÁ±•Ñ”¤…ÁÁ±å9…ÑÕÉ…±I…Ñ¥¼ ¤ì(€€€½¹ÍÐµ•Ñ„€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ÍÁ…¸œ¤ì(€€€µ•Ñ„¹±…ÍÍ9…µ”€ô€…±±•Éäµ…É‘}}µ•Ñ„œì(€€€µ•Ñ„¹¥¹¹•É!Q50€ô€ñÍÁ…¸ø‘íÁ…¡¥¹‘•à€¬€Ä¥ôð½ÍÁ…¸øñÍÑÉ½¹œø‘í¥Ñ•´¹Ñ¥Ñ±•ôð½ÍÑÉ½¹œù€ì(€€€‰ÕÑÑ½¸¹…ÁÁ•¹¡¥µ…”°µ•Ñ„¤ì(€€€É•ÑÕÉ¸‰ÕÑÑ½¸ì(€ôì((€½¹ÍÐÕÁ‘…Ñ•…±±•Éå½Õ¹Ñ•È€ô€¡É•½É¤€ôøì(€€€½¹ÍÐ…É‘Ì€ôl¸¸¹É•½É¹ÑÉ…¬¹¡¥±‘É•¹tì(€€€¥˜€ ……É‘Ì¹±•¹Ñ ¤É•ÑÕÉ¸ì(€€€½¹ÍÐ±•™Ð€ôÉ•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±1•™Ðì(€€€±•Ð¹•…É•ÍÐ€ô€Àì(€€€±•Ð‘¥ÍÑ…¹”€ô%¹™¥¹¥Ñäì(€€€…É‘Ì¹™½É…  ¡…É°¥¹‘•à¤€ôøì(€€€€€½¹ÍÐÕÉÉ•¹Ñ¥ÍÑ…¹”€ô5…Ñ ¹…‰Ì¡…É¹½™™Í•Ñ1•™Ð€´±•™Ð¤ì(€€€€€¥˜€¡ÕÉÉ•¹Ñ¥ÍÑ…¹”€ð‘¥ÍÑ…¹”¤ì(€€€€€€€‘¥ÍÑ…¹”€ôÕÉÉ•¹Ñ¥ÍÑ…¹”ì(€€€€€€€¹•…É•ÍÐ€ô¥¹‘•àì(€€€€€ô(€€€ô¤ì(€€€É•½É¹½Õ¹Ñ•È¹Ñ•áÑ½¹Ñ•¹Ð€ô€‘íÁ…¡¹•…É•ÍÐ€¬€Ä¥ô€¼€‘íÁ…¡É•½É¹¥Ñ•µÌ¹±•¹Ñ ¥õ€ì(€ôì((€½¹ÍÐÉ•¹‘•É…±±•Éä€ô€¡É•½É°…Ñ•½Éå%€ô€…±°œ¤€ôøì(€€€É•½É¹…Ñ¥Ù•…Ñ•½Éä€ô…Ñ•½Éå%ì(€€€½¹ÍÐÁÉ½©•Ð€ôÁÉ½©•ÑÍmÉ•½É¹ÁÉ½©•Ñ%‘tì(€€€É•½É¹¥Ñ•µÌ€ô…Ñ•½Éå%€ôôô€…±°œ(€€€€€€üÁÉ½©•Ð¹…±±%Ñ•µÌ(€€€€€€èÁÉ½©•Ð¹…Ñ•½É¥•Ì¹™¥¹ ¡É½ÕÀ¤€ôøÉ½ÕÀ¹¥€ôôô…Ñ•½Éå%¤¹¥Ñ•µÌ¹µ…À ¡¥Ñ•´¤€ôø€¡ì(€€€€€€€€€€¸¸¹¥Ñ•´°(€€€€€€€€€É½ÕÀèÁÉ½©•Ð¹…Ñ•½É¥•Ì¹™¥¹ ¡É½ÕÀ¤€ôøÉ½ÕÀ¹¥€ôôô…Ñ•½Éå%¤¹±…‰•°°(€€€€€€€ô¤¤ì(€€€É•½É¹ÑÉ…¬¹ÍÑå±”¹½Á…¥Ñä€ô€œÀœì(€€€Ý¥¹‘½Ü¹Í•ÑQ¥µ•½ÕÐ  ¤€ôøì(€€€€€É•½É¹ÑÉ…¬¹É•Á±…•¡¥±‘É•¸ ¸¸¹É•½É¹¥Ñ•µÌ¹µ…À ¡¥Ñ•´°¥¹‘•à¤€ôøì(€€€€€€€½¹ÍÐ…É€ô…É‘Q•µÁ±…Ñ”¡¥Ñ•´°¥¹‘•à°ÁÉ½©•Ð¹¹…µ”¤ì(€€€€€€€…É¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøì(€€€€€€€€€¥˜€ …É•½É¹Ý…ÍÉ…•¤½Á•¹1¥¡Ñ‰½à¡É•½É¹¥Ñ•µÌ°¥¹‘•à°ÁÉ½©•Ð¹¹…µ”¤ì(€€€€€€€ô¤ì(€€€€€€€É•ÑÕÉ¸…Éì(€€€€€ô¤¤ì(€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±1•™Ð€ô€Àì(€€€€€É•½É¹ÑÉ…¬¹ÍÑå±”¹½Á…¥Ñä€ô€œÄœì(€€€€€É•½É¹½Õ¹Ñ•È¹Ñ•áÑ½¹Ñ•¹Ð€ô€ÀÄ€¼€‘íÁ…¡É•½É¹¥Ñ•µÌ¹±•¹Ñ ¥õ€ì(€€€ô°€ÄØÀ¤ì(€€€É•½É¹™¥±Ñ•ÉÌ¹ÅÕ•ÉåM•±•Ñ½É±° ‰ÕÑÑ½¸œ¤¹™½É…  ¡‰ÕÑÑ½¸¤€ôøì(€€€€€‰ÕÑÑ½¸¹±…ÍÍ1¥ÍÐ¹Ñ½±” ¥Ìµ…Ñ¥Ù”œ°‰ÕÑÑ½¸¹‘…Ñ…Í•Ð¹…Ñ•½Éä€ôôô…Ñ•½Éå%¤ì(€€€ô¤ì(€ôì((€½¹ÍÐ¥¹¥Ñ…±±•ÉåÉ…œ€ô€¡É•½É¤€ôøì(€€€±•ÐÁ½¥¹Ñ•É%€ô¹Õ±°ì(€€€±•ÐÍÑ…ÉÑ`€ô€Àì(€€€±•ÐÍÑ…ÉÑMÉ½±°€ô€Àì(€€€É•½É¹Ý…ÍÉ…•€ô™…±Í”ì(€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Á½¥¹Ñ•É‘½Ý¸œ°€¡•Ù•¹Ð¤€ôøì(€€€€€¥˜€¡•Ù•¹Ð¹Á½¥¹Ñ•ÉQåÁ”€ôôô€µ½ÕÍ”œ€˜˜•Ù•¹Ð¹‰ÕÑÑ½¸€„ôô€À¤É•ÑÕÉ¸ì(€€€€€Á½¥¹Ñ•É%€ô•Ù•¹Ð¹Á½¥¹Ñ•É%ì(€€€€€ÍÑ…ÉÑ`€ô•Ù•¹Ð¹±¥•¹Ñ`ì(€€€€€ÍÑ…ÉÑMÉ½±°€ôÉ•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±1•™Ðì(€€€€€É•½É¹Ý…ÍÉ…•€ô™…±Í”ì(€€€ô¤ì(€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Á½¥¹Ñ•Éµ½Ù”œ°€¡•Ù•¹Ð¤€ôøì(€€€€€¥˜€¡Á½¥¹Ñ•É%€„ôô•Ù•¹Ð¹Á½¥¹Ñ•É%¤É•ÑÕÉ¸ì(€€€€€½¹ÍÐ‘•±Ñ„€ô•Ù•¹Ð¹±¥•¹Ñ`€´ÍÑ…ÉÑ`ì(€€€€€¥˜€¡5…Ñ ¹…‰Ì¡‘•±Ñ„¤€ø€Ô€˜˜€…É•½É¹Ý…ÍÉ…•¤ì(€€€€€€€É•½É¹Ý…ÍÉ…•€ôÑÉÕ”ì(€€€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹±…ÍÍ1¥ÍÐ¹…‘ ¥Ìµ‘É…¥¹œœ¤ì(€€€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹Í•ÑA½¥¹Ñ•É…ÁÑÕÉ”¡Á½¥¹Ñ•É%¤ì(€€€€€ô(€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±1•™Ð€ôÍÑ…ÉÑMÉ½±°€´‘•±Ñ„ì(€€€ô¤ì(€€€½¹ÍÐ™¥¹¥Í €ô€¡•Ù•¹Ð¤€ôøì(€€€€€¥˜€¡Á½¥¹Ñ•É%€„ôô•Ù•¹Ð¹Á½¥¹Ñ•É%¤É•ÑÕÉ¸ì(€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹±…ÍÍ1¥ÍÐ¹É•µ½Ù” ¥Ìµ‘É…¥¹œœ¤ì(€€€€€¥˜€¡É•½É¹Ù¥•ÝÁ½ÉÐ¹¡…ÍA½¥¹Ñ•É…ÁÑÕÉ”¡Á½¥¹Ñ•É%¤¤É•½É¹Ù¥•ÝÁ½ÉÐ¹É•±•…Í•A½¥¹Ñ•É…ÁÑÕÉ”¡Á½¥¹Ñ•É%¤ì(€€€€€Á½¥¹Ñ•É%€ô¹Õ±°ì(€€€€€Ý¥¹‘½Ü¹Í•ÑQ¥µ•½ÕÐ  ¤€ôøìÉ•½É¹Ý…ÍÉ…•€ô™…±Í”ìô°€ØÀ¤ì(€€€ôì(€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Á½¥¹Ñ•ÉÕÀœ°™¥¹¥Í ¤ì(€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Á½¥¹Ñ•É…¹•°œ°™¥¹¥Í ¤ì(€ôì((€½¹ÍÐ¥¹¥Ñ…±±•É¥•Ì€ô€ ¤€ôøì(€€€‘½Õµ•¹Ð¹ÅÕ•ÉåM•±•Ñ½É±° m‘…Ñ„µ…±±•Éäµ‰±½­tœ¤¹™½É…  ¡‰±½¬¤€ôøì(€€€€€½¹ÍÐÁÉ½©•Ñ%€ô‰±½¬¹‘…Ñ…Í•Ð¹…±±•Éå	±½¬ì(€€€€€½¹ÍÐÁÉ½©•Ð€ôÁÉ½©•ÑÍmÁÉ½©•Ñ%‘tì(€€€€€½¹ÍÐÉ•½É€ôì(€€€€€€€ÁÉ½©•Ñ%°(€€€€€€€‰±½¬°(€€€€€€€™¥±Ñ•ÉÌè‰±½¬¹ÅÕ•ÉåM•±•Ñ½È œ¹…±±•Éäµ™¥±Ñ•ÉÌœ¤°(€€€€€€€Ù¥•ÝÁ½ÉÐè‰±½¬¹ÅÕ•ÉåM•±•Ñ½È œ¹…±±•ÉäµÙ¥•ÝÁ½ÉÐœ¤°(€€€€€€€ÑÉ…¬è‰±½¬¹ÅÕ•ÉåM•±•Ñ½È œ¹…±±•ÉäµÑÉ…¬œ¤°(€€€€€€€½Õ¹Ñ•Èè‰±½¬¹ÅÕ•ÉåM•±•Ñ½È œ¹…±±•Éäµ½Õ¹Ñ•Èœ¤°(€€€€€€€¥Ñ•µÌèmt°(€€€€€ôì(€€€€€½¹ÍÐ™¥±Ñ•ÉÌ€ômì¥è€…±°œ°±…‰•°è€Ÿ–£¦ œô°€¸¸¹ÁÉ½©•Ð¹…Ñ•½É¥•Ì¹µ…À ¡ì¥°±…‰•°ô¤€ôø€¡ì¥°±…‰•°ô¤¥tì(€€€€€™¥±Ñ•ÉÌ¹™½É…  ¡™¥±Ñ•È¤€ôøì(€€€€€€€½¹ÍÐ‰ÕÑÑ½¸€ô‘½Õµ•¹Ð¹É•…Ñ•±•µ•¹Ð ‰ÕÑÑ½¸œ¤ì(€€€€€€€‰ÕÑÑ½¸¹ÑåÁ”€ô€‰ÕÑÑ½¸œì(€€€€€€€‰ÕÑÑ½¸¹‘…Ñ…Í•Ð¹…Ñ•½Éä€ô™¥±Ñ•È¹¥ì(€€€€€€€‰ÕÑÑ½¸¹Ñ•áÑ½¹Ñ•¹Ð€ô™¥±Ñ•È¹±…‰•°ì(€€€€€€€‰ÕÑÑ½¸¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøÉ•¹‘•É…±±•Éä¡É•½É°™¥±Ñ•È¹¥¤¤ì(€€€€€€€É•½É¹™¥±Ñ•ÉÌ¹…ÁÁ•¹¡‰ÕÑÑ½¸¤ì(€€€€€ô¤ì(€€€€€‰±½¬¹ÅÕ•ÉåM•±•Ñ½È m‘…Ñ„µ…±±•ÉäµÁÉ•Ùtœ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøì(€€€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±	ä¡ì±•™Ðè€µÉ•½É¹Ù¥•ÝÁ½ÉÐ¹±¥•¹Ñ]¥‘Ñ €¨€À¸ÜÔ°‰•¡…Ù¥½Èè€Íµ½½Ñ œô¤ì(€€€€€ô¤ì(€€€€€‰±½¬¹ÅÕ•ÉåM•±•Ñ½È m‘…Ñ„µ…±±•Éäµ¹•áÑtœ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøì(€€€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹ÍÉ½±±	ä¡ì±•™ÐèÉ•½É¹Ù¥•ÝÁ½ÉÐ¹±¥•¹Ñ]¥‘Ñ €¨€À¸ÜÔ°‰•¡…Ù¥½Èè€Íµ½½Ñ œô¤ì(€€€€€ô¤ì(€€€€€±•ÐÍÉ½±±Q¥µ•Èì(€€€€€É•½É¹Ù¥•ÝÁ½ÉÐ¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ÍÉ½±°œ°€ ¤€ôøì(€€€€€€€±•…ÉQ¥µ•½ÕÐ¡ÍÉ½±±Q¥µ•È¤ì(€€€€€€€ÍÉ½±±Q¥µ•È€ôÝ¥¹‘½Ü¹Í•ÑQ¥µ•½ÕÐ  ¤€ôøÕÁ‘…Ñ•…±±•Éå½Õ¹Ñ•È¡É•½É¤°€àÀ¤ì(€€€€€ô°ìÁ…ÍÍ¥Ù”èÑÉÕ”ô¤ì(€€€€€¥¹¥Ñ…±±•ÉåÉ…œ¡É•½É¤ì(€€€€€ÍÑ…Ñ”¹…±±•Éå	±½­Ì¹Í•Ð¡ÁÉ½©•Ñ%°É•½É¤ì(€€€€€É•¹‘•É…±±•Éä¡É•½É¤ì(€€€ô¤ì(€ôì((€½¹ÍÐ±¥¡Ñ‰½à€ô‘½Õµ•¹Ð¹ÅÕ•ÉåM•±•Ñ½È œ¹±¥¡Ñ‰½àœ¤ì(€½¹ÍÐ±¥¡Ñ‰½á%µ…”€ô±¥¡Ñ‰½àü¹ÅÕ•ÉåM•±•Ñ½È ¥µœœ¤ì(€½¹ÍÐ±¥¡Ñ‰½á½Õ¹Ð€ô±¥¡Ñ‰½àü¹ÅÕ•ÉåM•±•Ñ½È ™¥…ÁÑ¥½¸ÍÁ…¸œ¤ì(€½¹ÍÐ±¥¡Ñ‰½áQ¥Ñ±”€ô±¥¡Ñ‰½àü¹ÅÕ•ÉåM•±•Ñ½È ™¥…ÁÑ¥½¸ÍÑÉ½¹œœ¤ì((€½¹ÍÐÕÁ‘…Ñ•1¥¡Ñ‰½à€ô€ ¤€ôøì(€€€½¹ÍÐ¥Ñ•´€ôÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÍmÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•átì(€€€¥˜€ …¥Ñ•´¤É•ÑÕÉ¸ì(€€€±¥¡Ñ‰½á%µ…”¹ÍÑå±”¹½Á…¥Ñä€ô€œÀœì(€€€±¥¡Ñ‰½á%µ…”¹½¹±½…€ô€ ¤€ôøì±¥¡Ñ‰½á%µ…”¹ÍÑå±”¹½Á…¥Ñä€ô€œÄœìôì(€€€±¥¡Ñ‰½á%µ…”¹ÍÉŒ€ô¥Ñ•´¹ÍÉŒì(€€€±¥¡Ñ‰½á%µ…”¹…±Ð€ô€‘íÍÑ…Ñ”¹±¥¡Ñ‰½áAÉ½©•Ñ÷¾öp‘í¥Ñ•´¹Ñ¥Ñ±•õ€ì(€€€±¥¡Ñ‰½á½Õ¹Ð¹Ñ•áÑ½¹Ñ•¹Ð€ô€‘íÁ…¡ÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•à€¬€Ä¥ô€¼€‘íÁ…¡ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ¹±•¹Ñ ¥õ€ì(€€€±¥¡Ñ‰½áQ¥Ñ±”¹Ñ•áÑ½¹Ñ•¹Ð€ô€‘íÍÑ…Ñ”¹±¥¡Ñ‰½áAÉ½©•Ñôƒ
-Ü€‘í¥Ñ•´¹Ñ¥Ñ±•õ€ì(€€€l´Ä°€Åt¹™½É…  ¡½™™Í•Ð¤€ôøì(€€€€€½¹ÍÐ¥¹‘•à€ô€¡ÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•à€¬½™™Í•Ð€¬ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ¹±•¹Ñ ¤€”ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ¹±•¹Ñ ì(€€€€€½¹ÍÐÁÉ•±½…€ô¹•Ü%µ…” ¤ì(€€€€€ÁÉ•±½…¹ÍÉŒ€ôÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÍm¥¹‘•át¹ÍÉŒì(€€€ô¤ì(€ôì((€½¹ÍÐµ½Ù•1¥¡Ñ‰½à€ô€¡‘¥É•Ñ¥½¸¤€ôøì(€€€ÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•à€ô€¡ÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•à€¬‘¥É•Ñ¥½¸€¬ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ¹±•¹Ñ ¤€”ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ¹±•¹Ñ ì(€€€ÕÁ‘…Ñ•1¥¡Ñ‰½à ¤ì(€ôì((€½¹ÍÐ½Á•¹1¥¡Ñ‰½à€ô€¡¥Ñ•µÌ°¥¹‘•à°ÁÉ½©•Ñ9…µ”¤€ôøì(€€€ÍÑ…Ñ”¹±¥¡Ñ‰½á%Ñ•µÌ€ô¥Ñ•µÌì(€€€ÍÑ…Ñ”¹±¥¡Ñ‰½á%¹‘•à€ô¥¹‘•àì(€€€ÍÑ…Ñ”¹±¥¡Ñ‰½áAÉ½©•Ð€ôÁÉ½©•Ñ9…µ”ì(€€€ÕÁ‘…Ñ•1¥¡Ñ‰½à ¤ì(€€€¥˜€¡ÑåÁ•½˜±¥¡Ñ‰½à¹Í¡½Ý5½‘…°€ôôô€™Õ¹Ñ¥½¸œ¤±¥¡Ñ‰½à¹Í¡½Ý5½‘…° ¤ì(€€€•±Í”±¥¡Ñ‰½à¹Í•ÑÑÑÉ¥‰ÕÑ” ½Á•¸œ°€œœ¤ì(€€€‘½Õµ•¹Ð¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü€ô€¡¥‘‘•¸œì(€ôì((€½¹ÍÐ¥¹¥Ñ1¥¡Ñ‰½à€ô€ ¤€ôøì(€€€¥˜€ …±¥¡Ñ‰½à¤É•ÑÕÉ¸ì(€€€½¹ÍÐ±½Í”€ô€ ¤€ôøì(€€€€€¥˜€¡ÑåÁ•½˜±¥¡Ñ‰½à¹±½Í”€ôôô€™Õ¹Ñ¥½¸œ¤±¥¡Ñ‰½à¹±½Í” ¤ì(€€€€€•±Í”±¥¡Ñ‰½à¹É•µ½Ù•ÑÑÉ¥‰ÕÑ” ½Á•¸œ¤ì(€€€€€‘½Õµ•¹Ð¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü€ô€œœì(€€€ôì(€€€±¥¡Ñ‰½à¹ÅÕ•ÉåM•±•Ñ½È œ¹±¥¡Ñ‰½á}}±½Í”œ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°±½Í”¤ì(€€€±¥¡Ñ‰½à¹ÅÕ•ÉåM•±•Ñ½È œ¹±¥¡Ñ‰½á}}¹…Ø´µÁÉ•Øœ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøµ½Ù•1¥¡Ñ‰½à ´Ä¤¤ì(€€€±¥¡Ñ‰½à¹ÅÕ•ÉåM•±•Ñ½È œ¹±¥¡Ñ‰½á}}¹…Ø´µ¹•áÐœ¤¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€ ¤€ôøµ½Ù•1¥¡Ñ‰½à Ä¤¤ì(€€€±¥¡Ñ‰½à¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±¥¬œ°€¡•Ù•¹Ð¤€ôøì¥˜€¡•Ù•¹Ð¹Ñ…É•Ð€ôôô±¥¡Ñ‰½à¤±½Í” ¤ìô¤ì(€€€±¥¡Ñ‰½à¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ±½Í”œ°€ ¤€ôøì‘½Õµ•¹Ð¹‰½‘ä¹ÍÑå±”¹½Ù•É™±½Ü€ô€œœìô¤ì(€€€‘½Õµ•¹Ð¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È ­•å‘½Ý¸œ°€¡•Ù•¹Ð¤€ôøì(€€€€€¥˜€ …±¥¡Ñ‰½à¹¡…ÍÑÑÉ¥‰ÕÑ” ½Á•¸œ¤¤É•ÑÕÉ¸ì(€€€€€¥˜€¡•Ù•¹Ð¹­•ä€ôôô€ÉÉ½Ý1•™Ðœ¤µ½Ù•1¥¡Ñ‰½à ´Ä¤ì(€€€€€¥˜€¡•Ù•¹Ð¹­•ä€ôôô€ÉÉ½ÝI¥¡Ðœ¤µ½Ù•1¥¡Ñ‰½à Ä¤ì(€€€ô¤ì(€€€±•ÐÑ½Õ¡`€ô€Àì(€€€±¥¡Ñ‰½à¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Ñ½Õ¡ÍÑ…ÉÐœ°€¡•Ù•¹Ð¤€ôøìÑ½Õ¡`€ô•Ù•¹Ð¹¡…¹•‘Q½Õ¡•ÍlÁt¹±¥•¹Ñ`ìô°ìÁ…ÍÍ¥Ù”èÑÉÕ”ô¤ì(€€€±¥¡Ñ‰½à¹…‘‘Ù•¹Ñ1¥ÍÑ•¹•È Ñ½Õ¡•¹œ°€¡•Ù•¹Ð¤€ôøì(€€€€€½¹ÍÐ‘•±Ñ„€ô•Ù•¹Ð¹¡…¹•‘Q½Õ¡•ÍlÁt¹±¥•¹Ñ`€´Ñ½Õ¡`ì(€€€€€¥˜€¡5…Ñ ¹…‰Ì¡‘•±Ñ„¤€ø€ÔÔ¤µ½Ù•1¥¡Ñ‰½à¡‘•±Ñ„€ð€À€ü€Ä€è€´Ä¤ì(€€€ô°ìÁ…ÍÍ¥Ù”èÑÉÕ”ô¤ì(€ôì((€±½…‘•È ¤ì(€¥¹¥ÑI•Ù•…° ¤ì(€¥¹¥Ñ½Õ¹Ñ•ÉÌ ¤ì(€¥¹¥ÑMÉ½±° ¤ì(€¥¹¥ÑÕÉÍ½È ¤ì(€¥¹¥Ñ½±‘•ÉÌ ¤ì(€¥¹¥Ñ5½‰¥±•5•¹Ô ¤ì(€¥¹¥Ñ…É••É¥±´ ¤ì(€¥¹¥Ñ…±±•É¥•Ì ¤ì(€¥¹¥Ñ1¥¡Ñ‰½à ¤ì(€¥¹¥Ñ5…¹•Ñ¥Œ ¤ì)ô¤ ¤ì(
+        duration: 3700, chapter: 4, phase: '04.1 / GROWTH', title: 'æŒç»­ç”Ÿé•¿', role: 'ä»Žä¸ªäººäº§å‡ºï¼Œèµ°å‘å¯å¤ç”¨çš„æ–¹æ³•',
+        description: 'åšå‡ºå¥½ä½œå“ï¼Œä¹Ÿæ²‰æ·€æ›´å¥½çš„å·¥ä½œæ–¹å¼ï¼Œè®©èƒ½åŠ›æŒç»­äº§ç”Ÿä»·å€¼ã€‚',
+        tags: ['ä½œå“', 'æ–¹æ³•', 'åä½œ'], accent: '#ed174c', theme: 'dark', layout: 'micro', visual: 'manifesto', tools: ['ai', 'ps', 'gpt'],
+      },
+      {
+        duration: 5200, chapter: 4, phase: '05 / EPILOGUE', title: 'æŠŠæ„å›¾ï¼Œå˜æˆçœ‹å¾—è§çš„ä»·å€¼', role: 'WORK HISTORY / 2026',
+        description: 'ä¼—åˆæ‘†æ¸¡ â†’ æ·±åº¦ä¼ åª’ â†’ å¤§ç­–ç•¥ä¼ åª’',
+        tags: ['VISUAL DESIGN', 'BRAND THINKING', 'AI WORKFLOW'], accent: '#ed174c', theme: 'light', layout: 'final', visual: 'close', tools: [],
+      },
+    ];
+    const totalDuration = scenes.reduce((sum, scene) => sum + scene.duration, 0);
+    screen.dataset.duration = String(totalDuration);
+    const fields = {
+      phase: screen.querySelector('[data-film-phase]'),
+      title: screen.querySelector('[data-film-title]'),
+      role: screen.querySelector('[data-film-role]'),
+      description: screen.querySelector('[data-film-description]'),
+      tags: screen.querySelector('[data-film-tags]'),
+      clock: screen.querySelector('[data-film-clock]'),
+      progress: screen.querySelector('.film-progress span'),
+    };
+    const toggle = screen.querySelector('.film-toggle');
+    const chapterMarkers = [...screen.querySelectorAll('[data-chapter]')];
+    const toolCards = [...screen.querySelectorAll('[data-tool]')];
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const fract = (value) => value - Math.floor(value);
+    const random = (seed) => fract(Math.sin(seed * 91.173 + 17.41) * 43758.5453);
+    const nodes = Array.from({ length: 58 }, (_, index) => ({
+      x: random(index * 3 + 1), y: random(index * 3 + 2), size: 2 + random(index * 3 + 3) * 6,
+    }));
+    const blocks = Array.from({ length: 54 }, (_, index) => ({
+      x: random(index * 5 + 1), y: random(index * 5 + 2), size: 4 + random(index * 5 + 3) * 24,
+      rotate: random(index * 5 + 4) * Math.PI, tone: random(index * 5 + 5),
+    }));
+    const toolPositions = {
+      1: { ai: [83, 70, -6] }, 2: { ai: [17, 70, 5] }, 3: { ai: [15, 21, -4] },
+      5: { ps: [15, 69, 5] }, 6: { ps: [86, 68, -5] }, 7: { ai: [14, 21, -5], ps: [86, 75, 6] },
+      9: { ai: [58, 79, -5], ps: [73, 79, 4], gpt: [87, 23, 4] }, 10: { ai: [13, 24, -5], ps: [15, 72, 5] },
+      11: { ai: [24, 66, -4], ps: [50, 23, 0], gpt: [76, 66, 4] }, 12: { gpt: [84, 22, 4] },
+      13: { ai: [42, 76, -3], ps: [50, 76, 0], gpt: [58, 76, 3] }, 14: { ai: [18, 74, -5], ps: [50, 74, 0], gpt: [82, 74, 5] },
+    };
+    let sceneIndex = reducedMotion ? scenes.length - 3 : 0;
+    let userPaused = reducedMotion;
+    let inView = false;
+    let frame = 0;
+    let elapsed = reducedMotion ? scenes.slice(0, sceneIndex).reduce((sum, scene) => sum + scene.duration, 0) + 4200 : 0;
+    let lastTime = performance.now();
+    let width = 0;
+    let height = 0;
+
+    const clamp = (value, min = 0, max = 1) => Math.min(max, Math.max(min, value));
+    const ease = (value) => 1 - Math.pow(1 - clamp(value), 4);
+    const smooth = (value) => value * value * (3 - 2 * value);
+    const rgba = (hex, alpha) => {
+      const value = hex.replace('#', '');
+      const number = parseInt(value.length === 3 ? value.split('').map((item) => item + item).join('') : value, 16);
+      return `rgba(${(number >> 16) & 255},${(number >> 8) & 255},${number & 255},${alpha})`;
+    };
+
+    const resize = () => {
+      const bounds = screen.getBoundingClientRect();
+      width = Math.max(1, bounds.width);
+      height = Math.max(1, bounds.height);
+      const scale = Math.min(window.devicePixelRatio || 1, 3840 / width, 2160 / height);
+      const pixelWidth = Math.max(1, Math.round(width * scale));
+      const pixelHeight = Math.max(1, Math.round(height * scale));
+      if (canvas.width !== pixelWidth || canvas.height !== pixelHeight) {
+        canvas.width = pixelWidth;
+        canvas.height = pixelHeight;
+        context.setTransform(scale, 0, 0, scale, 0, 0);
+        context.imageSmoothingEnabled = true;
+        context.imageSmoothingQuality = 'high';
+      }
+    };
+
+    const line = (x1, y1, x2, y2, color, alpha = 1, lineWidth = 1) => {
+      context.beginPath(); context.moveTo(x1, y1); context.lineTo(x2, y2);
+      context.strokeStyle = rgba(color, alpha); context.lineWidth = lineWidth; context.stroke();
+    };
+    const square = (x, y, size, color, alpha = 1, rotation = 0, outline = false) => {
+      context.save(); context.translate(x, y); context.rotate(rotation); context.globalAlpha = alpha;
+      if (outline) { context.strokeStyle = color; context.lineWidth = 1; context.strokeRect(-size / 2, -size / 2, size, size); }
+      else { context.fillStyle = color; context.fillRect(-size / 2, -size / 2, size, size); }
+      context.restore(); context.globalAlpha = 1;
+    };
+    const circle = (x, y, radius, color, alpha = 1, lineWidth = 1) => {
+      context.beginPath(); context.arc(x, y, radius, 0, Math.PI * 2); context.strokeStyle = rgba(color, alpha); context.lineWidth = lineWidth; context.stroke();
+    };
+    const label = (text, x, y, color, alpha = .55, align = 'center') => {
+      context.save(); context.globalAlpha = alpha; context.fillStyle = color; context.textAlign = align;
+      context.font = `600 ${Math.max(7, width * .006)}px Arial, sans-serif`; context.letterSpacing = '1px'; context.fillText(text, x, y); context.restore();
+    };
+
+    const background = (scene, local, seconds) => {
+      const dark = scene.theme === 'dark';
+      const bg = dark ? '#050711' : '#f2f2ef';
+      const ink = dark ? '#f4f3ef' : '#10131d';
+      context.fillStyle = bg; context.fillRect(0, 0, width, height);
+      const glow = context.createRadialGradient(width * .5, height * .5, 0, width * .5, height * .5, Math.max(width, height) * .72);
+      glow.addColorStop(0, rgba(scene.accent, dark ? .12 : .055)); glow.addColorStop(.55, rgba(scene.accent, .015)); glow.addColorStop(1, rgba(bg, 0));
+      context.fillStyle = glow; context.fillRect(0, 0, width, height);
+      context.lineWidth = 1;
+      for (let index = 1; index < 12; index += 1) {
+        const x = (width / 12) * index + Math.sin(seconds * .07 + index) * 3;
+        line(x, 0, x, height, ink, dark ? .026 : .035);
+      }
+      for (let index = 1; index < 7; index += 1) line(0, (height / 7) * index, width, (height / 7) * index, ink, dark ? .022 : .03);
+      nodes.slice(0, 24).forEach((node, index) => {
+        const shimmer = .012 + .018 * (Math.sin(seconds * .8 + index) * .5 + .5);
+        square(node.x * width, node.y * height, 1.2, ink, shimmer);
+      });
+      return { dark, bg, ink, accent: scene.accent, local };
+    };
+
+    const drawSeed = (palette, progress, seconds) => {
+      const reveal = ease(progress * 2.2); const size = 7 + reveal * 7; const x = width / 2; const y = height / 2;
+      const glow = context.createRadialGradient(x, y, 0, x, y, width * .16);
+      glow.addColorStop(0, rgba(palette.accent, .2 * reveal)); glow.addColorStop(1, rgba(palette.accent, 0));
+      context.fillStyle = glow; context.fillRect(0, 0, width, height);
+      line(width * .17, y, width * .83, y, palette.ink, .13 * reveal);
+      line(x, height * .22, x, height * .78, palette.ink, .1 * reveal);
+      circle(x, y, 48 + Math.sin(seconds) * 4, palette.accent, .15 * reveal);
+      square(x, y, size, palette.accent, reveal, seconds * .07);
+      label('CAREER / ORIGIN', x, y + 76, palette.ink, .36 * reveal);
+    };
+
+    const drawNetwork = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.6); const centerX = width * .68; const centerY = height * .5;
+      nodes.forEach((node, index) => {
+        const x = centerX + (node.x * width - centerX) * reveal;
+        const y = centerY + (node.y * height - centerY) * reveal;
+        const other = nodes[(index * 7 + 11) % nodes.length];
+        const ox = centerX + (other.x * width - centerX) * reveal;
+        const oy = centerY + (other.y * height - centerY) * reveal;
+        if (Math.hypot(x - ox, y - oy) < width * .3) line(x, y, ox, oy, palette.ink, .1 * reveal);
+        square(x, y, index % 6 === 0 ? node.size + 3 : 3, index % 8 === 0 ? palette.accent : palette.ink, .75 * reveal, seconds * .05 + node.x);
+      });
+      circle(centerX, centerY, width * (.06 + .012 * Math.sin(seconds)), palette.accent, .25 * reveal);
+      label('FOUNDATION / 01', centerX, centerY + width * .095, palette.ink, .45 * reveal);
+    };
+
+    const drawHorizon = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.8); const y = height * .53;
+      const gradient = context.createLinearGradient(0, y, width, y);
+      gradient.addColorStop(0, rgba(palette.ink, 0)); gradient.addColorStop(.35, rgba(palette.ink, .2 * reveal)); gradient.addColorStop(.5, rgba(palette.accent, .8 * reveal)); gradient.addColorStop(.65, rgba(palette.ink, .2 * reveal)); gradient.addColorStop(1, rgba(palette.ink, 0));
+      context.fillStyle = gradient; context.fillRect(0, y - 1, width, 2);
+      const x = width * (.13 + .7 * smooth(clamp(progress * 1.08)));
+      square(x, y - 7, 11, palette.accent, .95, seconds * .18);
+      for (let index = 0; index < 21; index += 1) {
+        const tickX = width * (.1 + index * .04);
+        line(tickX, y + 16, tickX, y + 20 + (index % 5 === 0 ? 8 : 0), palette.ink, .18 * reveal);
+      }
+      label('FROM INFORMATION TO IMAGE', width * .5, y + 58, palette.ink, .42 * reveal);
+    };
+
+    const drawScatter = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.4); const cx = width * .5; const cy = height * .5;
+      blocks.forEach((block, index) => {
+        const distance = .1 + block.tone * .9;
+        const x = cx + (block.x - .5) * width * 1.25 * reveal * distance;
+        const y = cy + (block.y - .5) * height * 1.25 * reveal * distance;
+        const color = index % 9 === 0 ? palette.accent : (index % 4 === 0 ? '#f4f3ef' : '#18214d');
+        square(x, y, block.size * (.3 + .7 * reveal), color, .72 * reveal, block.rotate + seconds * (index % 2 ? .06 : -.04));
+      });
+      circle(cx, cy, width * .09 * reveal, palette.accent, .38 * reveal);
+      circle(cx, cy, width * .15 * reveal, palette.ink, .1 * reveal);
+    };
+
+    const drawCross = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.7); const cx = width * .5; const cy = height * .5;
+      for (let index = -6; index <= 6; index += 1) {
+        line(cx + index * width * .028, cy - height * .24 * reveal, cx + index * width * .028, cy + height * .24 * reveal, palette.ink, .08 * reveal);
+        line(cx - width * .18 * reveal, cy + index * height * .045, cx + width * .18 * reveal, cy + index * height * .045, palette.ink, .08 * reveal);
+      }
+      const pulse = .75 + Math.sin(seconds * 2) * .12;
+      square(cx, cy, width * .055 * pulse, palette.accent, .92 * reveal, Math.PI * .25, true);
+      square(cx, cy, width * .018, palette.accent, reveal, seconds * .1);
+      label('ACCURACY / SPEED / DELIVERY', cx, cy + height * .33, palette.ink, .45 * reveal);
+    };
+
+    const drawModules = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.45); const originX = width * .23; const originY = height * .5;
+      blocks.slice(0, 42).forEach((block, index) => {
+        const column = index % 7; const row = Math.floor(index / 7);
+        const targetX = width * (.09 + column * .045); const targetY = height * (.28 + row * .075);
+        const x = originX + (targetX - originX) * reveal; const y = originY + (targetY - originY) * reveal;
+        const size = Math.min(width, height) * (.025 + (index % 5) * .004);
+        square(x, y, size, index % 8 === 0 ? palette.accent : '#152052', .88 * reveal, (1 - reveal) * block.rotate);
+      });
+      line(width * .06, height * .73, width * .39, height * .73, palette.ink, .18 * reveal);
+      label('BRAND MODULES / 02', width * .225, height * .78, palette.ink, .45 * reveal);
+    };
+
+    const drawRibbon = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.8);
+      for (let index = 0; index < 11; index += 1) {
+        context.beginPath();
+        for (let step = 0; step <= 70; step += 1) {
+          const t = step / 70; const x = width * (.08 + .84 * t);
+          const y = height * (.5 + Math.sin(t * Math.PI * 2 + index * .38 + seconds * .25) * (.02 + index * .004));
+          if (step === 0) context.moveTo(x, y); else context.lineTo(x, y);
+        }
+        context.strokeStyle = rgba(index === 5 ? palette.accent : palette.ink, (index === 5 ? .55 : .08) * reveal);
+        context.lineWidth = index === 5 ? 2 : 1; context.stroke();
+      }
+      square(width * (.12 + .76 * smooth(progress)), height * .5, 10, palette.accent, .95, seconds * .12);
+      label('ONE SYSTEM / MANY TOUCHPOINTS', width * .5, height * .66, palette.ink, .42 * reveal);
+    };
+
+    const drawOrbital = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.4); const cx = width * .5; const cy = height * .49;
+      for (let ring = 1; ring <= 4; ring += 1) circle(cx, cy, width * (.045 + ring * .04) * reveal, ring === 3 ? palette.accent : palette.ink, ring === 3 ? .38 : .12);
+      for (let index = 0; index < 18; index += 1) {
+        const radius = width * (.09 + (index % 4) * .04) * reveal;
+        const angle = seconds * (index % 2 ? .18 : -.12) + index * .78;
+        const x = cx + Math.cos(angle) * radius; const y = cy + Math.sin(angle) * radius * .6;
+        square(x, y, index % 5 === 0 ? 9 : 4, index % 5 === 0 ? palette.accent : palette.ink, .8 * reveal, angle);
+      }
+      label('UNDERSTAND / ALIGN / DECIDE', cx, cy + height * .31, palette.ink, .45 * reveal);
+    };
+
+    const drawMatrix = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.5); const cx = width * .5; const cy = height * .49;
+      context.save(); context.translate(cx, cy); context.rotate(Math.sin(seconds * .22) * .08);
+      for (let row = -4; row <= 4; row += 1) for (let column = -6; column <= 6; column += 1) {
+        const distance = Math.hypot(row / 4, column / 6); const size = Math.max(2, 12 - distance * 5) * reveal;
+        square(column * width * .032, row * width * .032, size, (row + column) % 9 === 0 ? palette.accent : '#182451', .72 * reveal, seconds * .03 + distance);
+      }
+      context.restore();
+      circle(cx, cy, width * .24 * reveal, palette.ink, .08);
+    };
+
+    const drawSkyline = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.35); const base = height * .68;
+      for (let index = 0; index < 34; index += 1) {
+        const x = width * (.44 + index * .016); const buildingHeight = height * (.05 + random(index + 40) * .29) * reveal;
+        const buildingWidth = width * (.009 + random(index + 90) * .009);
+        context.fillStyle = rgba(index % 8 === 0 ? palette.accent : '#182451', .78);
+        context.fillRect(x, base - buildingHeight, buildingWidth, buildingHeight);
+        context.fillStyle = rgba('#f4f3ef', .15);
+        for (let floor = 8; floor < buildingHeight; floor += 13) context.fillRect(x + 3, base - floor, Math.max(1, buildingWidth - 6), 1);
+      }
+      line(width * .41, base, width * .97, base, palette.accent, .55 * reveal, 1.5);
+      const flare = context.createRadialGradient(width * .7, base, 0, width * .7, base, width * .27);
+      flare.addColorStop(0, rgba(palette.accent, .16)); flare.addColorStop(1, rgba(palette.accent, 0)); context.fillStyle = flare; context.fillRect(width * .38, base - height * .35, width * .62, height * .7);
+      label('INTEGRATED OUTPUT / 03', width * .7, height * .79, palette.ink, .46 * reveal);
+    };
+
+    const drawWave = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.7); const points = 64; let previous = null;
+      for (let index = 0; index < points; index += 1) {
+        const t = index / (points - 1); const x = width * (.07 + .86 * t);
+        const y = height * (.5 + Math.sin(t * Math.PI * 4 + seconds * .45) * .12 * Math.sin(t * Math.PI));
+        if (previous) line(previous.x, previous.y, x, y, palette.ink, .18 * reveal);
+        square(x, y, index % 8 === 0 ? 8 : 3, index % 8 === 0 ? palette.accent : palette.ink, .75 * reveal, seconds * .1);
+        previous = { x, y };
+      }
+      for (let index = 0; index < 7; index += 1) circle(width * (.12 + index * .125), height * .5, width * .018 * reveal, palette.accent, .15 * reveal);
+    };
+
+    const drawTools = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.5); const points = [[.24,.66],[.5,.23],[.76,.66]];
+      line(width * points[0][0], height * points[0][1], width * points[1][0], height * points[1][1], palette.ink, .25 * reveal);
+      line(width * points[1][0], height * points[1][1], width * points[2][0], height * points[2][1], palette.ink, .25 * reveal);
+      line(width * points[2][0], height * points[2][1], width * points[0][0], height * points[0][1], palette.accent, .35 * reveal);
+      points.forEach(([x, y], index) => {
+        circle(width * x, height * y, width * (.055 + Math.sin(seconds + index) * .004), index === 2 ? palette.accent : palette.ink, .24 * reveal);
+        for (let dot = 0; dot < 10; dot += 1) {
+          const angle = seconds * (index % 2 ? -.2 : .18) + dot * Math.PI * .2;
+          square(width * x + Math.cos(angle) * width * .075, height * y + Math.sin(angle) * width * .075, 3, index === 2 ? palette.accent : palette.ink, .55 * reveal);
+        }
+      });
+      label('TOOLS BECOME A WORKFLOW', width * .5, height * .82, palette.ink, .45 * reveal);
+    };
+
+    const drawConstellation = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.45); const visible = Math.floor(nodes.length * reveal);
+      nodes.forEach((node, index) => {
+        if (index >= visible) return;
+        const x = width * (.08 + node.x * .84); const y = height * (.18 + node.y * .64);
+        for (let offset = 1; offset <= 2; offset += 1) {
+          const other = nodes[(index + offset * 9) % nodes.length]; const ox = width * (.08 + other.x * .84); const oy = height * (.18 + other.y * .64);
+          if (Math.hypot(x - ox, y - oy) < width * .19) line(x, y, ox, oy, palette.ink, .09 * reveal);
+        }
+        square(x, y, index % 10 === 0 ? 8 : 3, index % 10 === 0 ? palette.accent : palette.ink, .75 * reveal, seconds * .05);
+      });
+      const x = width * (.5 + Math.sin(seconds * .2) * .06); const y = height * (.5 + Math.cos(seconds * .17) * .05);
+      circle(x, y, width * .08, palette.accent, .28 * reveal);
+    };
+
+    const drawSynthesis = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.45); const cx = width * .5; const cy = height * .48;
+      const origins = [[.18,.22],[.82,.22],[.18,.75],[.82,.75]];
+      origins.forEach(([ox, oy], group) => {
+        for (let index = 0; index < 11; index += 1) {
+          const angle = index * .72 + group; const spread = width * (.03 + index * .006);
+          const startX = width * ox + Math.cos(angle) * spread; const startY = height * oy + Math.sin(angle) * spread;
+          const x = startX + (cx - startX) * reveal; const y = startY + (cy - startY) * reveal;
+          square(x, y, 4 + (index % 4) * 2, group === 0 ? palette.accent : '#182451', .74, angle + seconds * .03);
+          line(startX, startY, x, y, group === 0 ? palette.accent : palette.ink, .06 * reveal);
+        }
+      });
+      circle(cx, cy, width * .16 * reveal, palette.ink, .1 * reveal);
+      circle(cx, cy, width * .095 * reveal, palette.accent, .22 * reveal);
+      square(cx, cy, 14 + Math.sin(seconds * 1.4) * 2, palette.accent, .95, seconds * .08);
+    };
+
+    const drawManifesto = (palette, progress, seconds) => {
+      const reveal = ease(progress * 1.5); const cx = width * .5; const cy = height * .47;
+      for (let index = 0; index < 32; index += 1) {
+        const ring = index % 3; const radius = width * (.07 + ring * .055) * reveal;
+        const angle = index * .92 + seconds * (ring % 2 ? -.08 : .11);
+        const x = cx + Math.cos(angle) * radius; const y = cy + Math.sin(angle) * radius * .62;
+        square(x, y, 4 + (index % 5), index % 8 === 0 ? palette.accent : palette.ink, .72 * reveal, angle);
+      }
+      line(cx, height * .14, cx, height * .82, palette.ink, .11 * reveal);
+      square(cx, cy, width * .035, palette.accent, .9 * reveal, Math.PI * .25 + seconds * .05, true);
+    };
+
+    const drawClose = (palette, progress, seconds) => {
+      const enter = ease(progress * 2); const exit = ease(clamp((progress - .68) / .32)); const cx = width * .5; const cy = height * .5;
+      blocks.slice(0, 36).forEach((block, index) => {
+        const spread = (1 - enter) * 1.1 + exit * 1.25; const x = cx + (block.x - .5) * width * spread; const y = cy + (block.y - .5) * height * spread;
+        square(x, y, Math.max(2, block.size * .42), index % 9 === 0 ? palette.accent : '#182451', .42 * (1 - exit), block.rotate + seconds * .03);
+      });
+      const radius = width * (.13 * (1 - exit) + .02); circle(cx, cy, radius, palette.accent, .25 * (1 - exit));
+      const glow = context.createRadialGradient(cx, cy, 0, cx, cy, width * .18);
+      glow.addColorStop(0, rgba(palette.accent, .17 * (1 - exit))); glow.addColorStop(1, rgba(palette.accent, 0)); context.fillStyle = glow; context.fillRect(0, 0, width, height);
+      square(cx, cy, 13 * (1 - exit) + 5, palette.accent, 1 - exit * .45, seconds * .06);
+    };
+
+    const renderers = {
+      seed: drawSeed, network: drawNetwork, horizon: drawHorizon, scatter: drawScatter, cross: drawCross,
+      modules: drawModules, ribbon: drawRibbon, orbital: drawOrbital, matrix: drawMatrix, skyline: drawSkyline,
+      wave: drawWave, tools: drawTools, constellation: drawConstellation, synthesis: drawSynthesis, manifesto: drawManifesto, close: drawClose,
+    };
+
+    const applyScene = (index, immediate = false) => {
+      const scene = scenes[index];
+      const commit = () => {
+        screen.dataset.scene = String(index);
+        screen.dataset.theme = scene.theme;
+        screen.dataset.layout = scene.layout;
+        screen.style.setProperty('--film-accent', scene.accent);
+        fields.phase.textContent = scene.phase;
+        fields.title.textContent = scene.title;
+        fields.role.textContent = scene.role;
+        fields.description.textContent = scene.description;
+        fields.tags.replaceChildren(...scene.tags.map((label) => {
+          const span = document.createElement('span');
+          span.textContent = label;
+          return span;
+        }));
+        chapterMarkers.forEach((marker) => marker.classList.toggle('is-active', Number(marker.dataset.chapter) === scene.chapter));
+        toolCards.forEach((card) => {
+          const position = toolPositions[index]?.[card.dataset.tool];
+          card.classList.toggle('is-visible', scene.tools.includes(card.dataset.tool));
+          if (position) {
+            card.style.setProperty('--tool-x', `${position[0]}%`);
+            card.style.setProperty('--tool-y', `${position[1]}%`);
+            card.style.setProperty('--tool-r', `${position[2]}deg`);
+          }
+        });
+        requestAnimationFrame(() => screen.classList.remove('is-switching'));
+      };
+      if (immediate) commit();
+      else {
+        screen.classList.add('is-switching');
+        window.setTimeout(commit, 260);
+      }
+    };
+
+    const locateScene = (time) => {
+      let offset = 0;
+      for (let index = 0; index < scenes.length; index += 1) {
+        const end = offset + scenes[index].duration;
+        if (time < end) return { index, local: time - offset, duration: scenes[index].duration };
+        offset = end;
+      }
+      return { index: 0, local: 0, duration: scenes[0].duration };
+    };
+
+    const render = (now) => {
+      frame = 0;
+      resize();
+      if (!userPaused && inView) elapsed = (elapsed + Math.min(100, now - lastTime)) % totalDuration;
+      lastTime = now;
+      const located = locateScene(elapsed);
+      if (located.index !== sceneIndex) {
+        sceneIndex = located.index;
+        applyScene(sceneIndex);
+      }
+      const scene = scenes[located.index];
+      const progress = clamp(located.local / located.duration);
+      const seconds = elapsed / 1000;
+      const palette = background(scene, progress, seconds);
+      context.save();
+      const transitionIn = smooth(clamp(progress / .1));
+      const transitionOut = smooth(clamp((1 - progress) / .08));
+      context.globalAlpha = Math.min(transitionIn, transitionOut);
+      const motionProgress = scene.visual === 'close' ? progress : clamp(progress * 1.85);
+      const motionSeconds = seconds * 1.65;
+      renderers[scene.visual]?.(palette, motionProgress, motionSeconds);
+      context.restore();
+      fields.progress.style.transform = `scaleX(${elapsed / totalDuration})`;
+      const wholeSeconds = Math.floor(elapsed / 1000);
+      const minutes = Math.floor(wholeSeconds / 60);
+      const secondsPart = wholeSeconds % 60;
+      const frames = Math.floor((elapsed % 1000) / (1000 / 24));
+      fields.clock.textContent = `00:${String(minutes).padStart(2, '0')}:${String(secondsPart).padStart(2, '0')}:${String(frames).padStart(2, '0')}`;
+      if (inView && !userPaused) frame = requestAnimationFrame(render);
+    };
+
+    const start = () => {
+      if (frame || !inView) return;
+      lastTime = performance.now();
+      frame = requestAnimationFrame(render);
+    };
+    const stop = () => {
+      if (frame) cancelAnimationFrame(frame);
+      frame = 0;
+    };
+
+    screen.addEventListener('career-film:seek', (event) => {
+      stop();
+      elapsed = clamp(Number(event.detail) || 0, 0, totalDuration - 1);
+      const located = locateScene(elapsed);
+      sceneIndex = located.index;
+      applyScene(sceneIndex, true);
+      lastTime = performance.now();
+      render(lastTime);
+    });
+
+    toggle.addEventListener('click', () => {
+      userPaused = !userPaused;
+      screen.classList.toggle('is-paused', userPaused);
+      toggle.querySelector('span').textContent = userPaused ? 'PLAY' : 'PAUSE';
+      toggle.setAttribute('aria-label', userPaused ? 'æ’­æ”¾å±¥åŽ†åŠ¨ç”»' : 'æš‚åœå±¥åŽ†åŠ¨ç”»');
+      lastTime = performance.now();
+      if (!frame) start();
+    });
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        inView = entry.isIntersecting;
+        if (inView) start(); else stop();
+      });
+    }, { threshold: 0.18 });
+    observer.observe(screen);
+    window.addEventListener('resize', resize, { passive: true });
+    if (reducedMotion) {
+      screen.classList.add('is-paused');
+      toggle.querySelector('span').textContent = 'PLAY';
+    }
+    applyScene(sceneIndex, true);
+    resize();
+    render(performance.now());
+  };
+
+  const cardTemplate = (item, index, projectName) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = `gallery-card gallery-card--${item.orientation}`;
+    button.dataset.index = String(index);
+    button.setAttribute('aria-label', `æŸ¥çœ‹ ${projectName} ${item.title}`);
+    const image = document.createElement('img');
+    image.alt = `${projectName}ï½œ${item.title}`;
+    image.loading = 'lazy';
+    image.decoding = 'async';
+    const applyNaturalRatio = () => {
+      if (!image.naturalWidth || !image.naturalHeight) return;
+      button.style.setProperty('--asset-ratio', String(image.naturalWidth / image.naturalHeight));
+      image.width = image.naturalWidth;
+      image.height = image.naturalHeight;
+    };
+    image.addEventListener('load', applyNaturalRatio, { once: true });
+    image.src = item.src;
+    if (image.complete) applyNaturalRatio();
+    const meta = document.createElement('span');
+    meta.className = 'gallery-card__meta';
+    meta.innerHTML = `<span>${pad(index + 1)}</span><strong>${item.title}</strong>`;
+    button.append(image, meta);
+    return button;
+  };
+
+  const updateGalleryCounter = (record) => {
+    const cards = [...record.track.children];
+    if (!cards.length) return;
+    const left = record.viewport.scrollLeft;
+    let nearest = 0;
+    let distance = Infinity;
+    cards.forEach((card, index) => {
+      const currentDistance = Math.abs(card.offsetLeft - left);
+      if (currentDistance < distance) {
+        distance = currentDistance;
+        nearest = index;
+      }
+    });
+    record.counter.textContent = `${pad(nearest + 1)} / ${pad(record.items.length)}`;
+  };
+
+  const renderGallery = (record, categoryId = 'all') => {
+    record.activeCategory = categoryId;
+    const project = projects[record.projectId];
+    record.items = categoryId === 'all'
+      ? project.allItems
+      : project.categories.find((group) => group.id === categoryId).items.map((item) => ({
+          ...item,
+          group: project.categories.find((group) => group.id === categoryId).label,
+        }));
+    record.track.style.opacity = '0';
+    window.setTimeout(() => {
+      record.track.replaceChildren(...record.items.map((item, index) => {
+        const card = cardTemplate(item, index, project.name);
+        card.addEventListener('click', () => {
+          if (!record.wasDragged) openLightbox(record.items, index, project.name);
+        });
+        return card;
+      }));
+      record.viewport.scrollLeft = 0;
+      record.track.style.opacity = '1';
+      record.counter.textContent = `01 / ${pad(record.items.length)}`;
+    }, 160);
+    record.filters.querySelectorAll('button').forEach((button) => {
+      button.classList.toggle('is-active', button.dataset.category === categoryId);
+    });
+  };
+
+  const initGalleryDrag = (record) => {
+    let pointerId = null;
+    let startX = 0;
+    let startScroll = 0;
+    record.wasDragged = false;
+    record.viewport.addEventListener('pointerdown', (event) => {
+      if (event.pointerType === 'mouse' && event.button !== 0) return;
+      pointerId = event.pointerId;
+      startX = event.clientX;
+      startScroll = record.viewport.scrollLeft;
+      record.wasDragged = false;
+    });
+    record.viewport.addEventListener('pointermove', (event) => {
+      if (pointerId !== event.pointerId) return;
+      const delta = event.clientX - startX;
+      if (Math.abs(delta) > 5 && !record.wasDragged) {
+        record.wasDragged = true;
+        record.viewport.classList.add('is-dragging');
+        record.viewport.setPointerCapture(pointerId);
+      }
+      record.viewport.scrollLeft = startScroll - delta;
+    });
+    const finish = (event) => {
+      if (pointerId !== event.pointerId) return;
+      record.viewport.classList.remove('is-dragging');
+      if (record.viewport.hasPointerCapture(pointerId)) record.viewport.releasePointerCapture(pointerId);
+      pointerId = null;
+      window.setTimeout(() => { record.wasDragged = false; }, 60);
+    };
+    record.viewport.addEventListener('pointerup', finish);
+    record.viewport.addEventListener('pointercancel', finish);
+  };
+
+  const initGalleries = () => {
+    document.querySelectorAll('[data-gallery-block]').forEach((block) => {
+      const projectId = block.dataset.galleryBlock;
+      const project = projects[projectId];
+      const record = {
+        projectId,
+        block,
+        filters: block.querySelector('.gallery-filters'),
+        viewport: block.querySelector('.gallery-viewport'),
+        track: block.querySelector('.gallery-track'),
+        counter: block.querySelector('.gallery-counter'),
+        items: [],
+      };
+      const filters = [{ id: 'all', label: 'å…¨éƒ¨' }, ...project.categories.map(({ id, label }) => ({ id, label }))];
+      filters.forEach((filter) => {
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.dataset.category = filter.id;
+        button.textContent = filter.label;
+        button.addEventListener('click', () => renderGallery(record, filter.id));
+        record.filters.append(button);
+      });
+      block.querySelector('[data-gallery-prev]').addEventListener('click', () => {
+        record.viewport.scrollBy({ left: -record.viewport.clientWidth * 0.75, behavior: 'smooth' });
+      });
+      block.querySelector('[data-gallery-next]').addEventListener('click', () => {
+        record.viewport.scrollBy({ left: record.viewport.clientWidth * 0.75, behavior: 'smooth' });
+      });
+      let scrollTimer;
+      record.viewport.addEventListener('scroll', () => {
+        clearTimeout(scrollTimer);
+        scrollTimer = window.setTimeout(() => updateGalleryCounter(record), 80);
+      }, { passive: true });
+      initGalleryDrag(record);
+      state.galleryBlocks.set(projectId, record);
+      renderGallery(record);
+    });
+  };
+
+  const lightbox = document.querySelector('.lightbox');
+  const lightboxImage = lightbox?.querySelector('img');
+  const lightboxCount = lightbox?.querySelector('figcaption span');
+  const lightboxTitle = lightbox?.querySelector('figcaption strong');
+
+  const updateLightbox = () => {
+    const item = state.lightboxItems[state.lightboxIndex];
+    if (!item) return;
+    lightboxImage.style.opacity = '0';
+    lightboxImage.onload = () => { lightboxImage.style.opacity = '1'; };
+    lightboxImage.src = item.src;
+    lightboxImage.alt = `${state.lightboxProject}ï½œ${item.title}`;
+    lightboxCount.textContent = `${pad(state.lightboxIndex + 1)} / ${pad(state.lightboxItems.length)}`;
+    lightboxTitle.textContent = `${state.lightboxProject} Â· ${item.title}`;
+    [-1, 1].forEach((offset) => {
+      const index = (state.lightboxIndex + offset + state.lightboxItems.length) % state.lightboxItems.length;
+      const preload = new Image();
+      preload.src = state.lightboxItems[index].src;
+    });
+  };
+
+  const moveLightbox = (direction) => {
+    state.lightboxIndex = (state.lightboxIndex + direction + state.lightboxItems.length) % state.lightboxItems.length;
+    updateLightbox();
+  };
+
+  const openLightbox = (items, index, projectName) => {
+    state.lightboxItems = items;
+    state.lightboxIndex = index;
+    state.lightboxProject = projectName;
+    updateLightbox();
+    if (typeof lightbox.showModal === 'function') lightbox.showModal();
+    else lightbox.setAttribute('open', '');
+    document.body.style.overflow = 'hidden';
+  };
+
+  const initLightbox = () => {
+    if (!lightbox) return;
+    const close = () => {
+      if (typeof lightbox.close === 'function') lightbox.close();
+      else lightbox.removeAttribute('open');
+      document.body.style.overflow = '';
+    };
+    lightbox.querySelector('.lightbox__close').addEventListener('click', close);
+    lightbox.querySelector('.lightbox__nav--prev').addEventListener('click', () => moveLightbox(-1));
+    lightbox.querySelector('.lightbox__nav--next').addEventListener('click', () => moveLightbox(1));
+    lightbox.addEventListener('click', (event) => { if (event.target === lightbox) close(); });
+    lightbox.addEventListener('close', () => { document.body.style.overflow = ''; });
+    document.addEventListener('keydown', (event) => {
+      if (!lightbox.hasAttribute('open')) return;
+      if (event.key === 'ArrowLeft') moveLightbox(-1);
+      if (event.key === 'ArrowRight') moveLightbox(1);
+    });
+    let touchX = 0;
+    lightbox.addEventListener('touchstart', (event) => { touchX = event.changedTouches[0].clientX; }, { passive: true });
+    lightbox.addEventListener('touchend', (event) => {
+      const delta = event.changedTouches[0].clientX - touchX;
+      if (Math.abs(delta) > 55) moveLightbox(delta < 0 ? 1 : -1);
+    }, { passive: true });
+  };
+
+  loader();
+  initReveal();
+  initCounters();
+  initScroll();
+  initCursor();
+  initFolders();
+  initMobileMenu();
+  initCareerFilm();
+  initGalleries();
+  initLightbox();
+  initMagnetic();
+})();
