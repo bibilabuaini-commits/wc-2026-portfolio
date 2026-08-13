@@ -2,9 +2,9 @@
   'use strict';
 
   const pad = (value) => String(value).padStart(2, '0');
-  const asset = (number) => `assets/work-${String(number).padStart(3, '0')}.webp`;
+  const asset = (number) => `assets/work-${String(number).padStart(3, '0')}.${number >= 190 && number <= 194 ? 'jpg' : 'webp'}`;
   const orientation = (number) => (
-    ((number >= 55 && number <= 79) || (number >= 99 && number <= 157)) ? 'portrait' : 'landscape'
+    ((number >= 55 && number <= 79) || (number >= 99 && number <= 157) || (number >= 190 && number <= 194)) ? 'portrait' : 'landscape'
   );
 
   const category = (id, label, start, end) => ({
@@ -60,6 +60,7 @@
       categories: [
         category('value', '价值小绿书', 128, 132),
         category('story', '项目价值长图', 133, 137),
+        category('comic', '漫画', 190, 194),
       ],
     },
     lifecity: {
