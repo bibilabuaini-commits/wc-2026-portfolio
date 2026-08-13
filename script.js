@@ -43,6 +43,9 @@
         category('longform', '社群推文长图', 112, 116),
         category('psychology', '心理活动', 117, 120),
         category('recruit', '主理人招募', 121, 127),
+        category('qixi', '七夕前宣', 144, 149),
+        category('guandan', '掼蛋活动', 150, 153),
+        category('badminton-event', '羽毛球活动刷屏', 154, 154),
       ],
     },
     fuying: {
@@ -54,7 +57,10 @@
     },
     lifecity: {
       name: '生活城',
-      categories: [category('building', '6 号楼价值传播', 138, 143)],
+      categories: [
+        category('building', '6 号楼价值传播', 138, 143),
+        category('landscape', '园林价值传播', 155, 157),
+      ],
     },
   };
 
