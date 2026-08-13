@@ -4,7 +4,7 @@
   const pad = (value) => String(value).padStart(2, '0');
   const asset = (number) => `assets/work-${String(number).padStart(3, '0')}.webp`;
   const orientation = (number) => (
-    ((number >= 55 && number <= 79) || number >= 99) ? 'portrait' : 'landscape'
+    ((number >= 55 && number <= 79) || (number >= 99 && number <= 157)) ? 'portrait' : 'landscape'
   );
 
   const category = (id, label, start, end) => ({
@@ -33,6 +33,13 @@
         category('feeling', '情怀系列', 80, 87),
         category('events', '活动画面', 88, 95),
         category('explore', '备选探索', 96, 98),
+      ],
+    },
+    yunqi: {
+      name: '云启十三境',
+      categories: [
+        category('identity', '标识系统', 158, 169),
+        category('applications', '场景延展', 170, 189),
       ],
     },
     hisense: {
@@ -793,8 +800,10 @@
     button.setAttribute('aria-label', `查看 ${projectName} ${item.title}`);
     const image = document.createElement('img');
     image.alt = `${projectName}｜${item.title}`;
-    // Native lazy-loading can miss absolutely positioned images inside a horizontal scroller.
-    // Load the first two cards immediately, then promote nearby cards as the visitor moves.
+    // Native lazy-loading can miss absolutely positioned images inside a
+    // horizontal scroller. Load the first two cards immediately so every
+    // project has a visible opening frame, then promote nearby cards while
+    // the visitor moves through the gallery.
     image.loading = index < 2 ? 'eager' : 'lazy';
     if (index === 0) image.fetchPriority = 'high';
     image.decoding = 'async';
