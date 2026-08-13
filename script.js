@@ -793,7 +793,11 @@
     button.setAttribute('aria-label', `查看 ${projectName} ${item.title}`);
     const image = document.createElement('img');
     image.alt = `${projectName}｜${item.title}`;
-    // Native lazy-loading can miss absolutely positioned images inside a\n    // horizontal scroller. Load the first two cards immediately so every\n    // project has a visible opening frame, then promote nearby cards while\n    // the visitor moves through the gallery.\n    image.loading = index < 2 ? 'eager' : 'lazy';\n    if (index === 0) image.fetchPriority = 'high';\n    image.decoding = 'async';
+    // Native lazy-loading can miss absolutely positioned images inside a horizontal scroller.
+    // Load the first two cards immediately, then promote nearby cards as the visitor moves.
+    image.loading = index < 2 ? 'eager' : 'lazy';
+    if (index === 0) image.fetchPriority = 'high';
+    image.decoding = 'async';
     const applyNaturalRatio = () => {
       if (!image.naturalWidth || !image.naturalHeight) return;
       button.style.setProperty('--asset-ratio', String(image.naturalWidth / image.naturalHeight));
@@ -823,7 +827,12 @@
         nearest = index;
       }
     });
-    record.counter.textContent = `${pad(nearest + 1)} / ${pad(record.items.length)}`;\n    cards.slice(Math.max(0, nearest - 1), nearest + 3).forEach((card) => {\n      const image = card.querySelector('img');\n      if (image && !image.complete) image.loading = 'eager';\n    });\n  };
+    record.counter.textContent = `${pad(nearest + 1)} / ${pad(record.items.length)}`;
+    cards.slice(Math.max(0, nearest - 1), nearest + 3).forEach((card) => {
+      const image = card.querySelector('img');
+      if (image && !image.complete) image.loading = 'eager';
+    });
+  };
 
   const renderGallery = (record, categoryId = 'all') => {
     record.activeCategory = categoryId;
