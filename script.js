@@ -58,9 +58,9 @@
     fuying: {
       name: '福瀛·紫园',
       categories: [
+        category('comic', '漫画', 190, 194),
         category('value', '价值小绿书', 128, 132),
         category('story', '项目价值长图', 133, 137),
-        category('comic', '漫画', 190, 194),
       ],
     },
     lifecity: {
